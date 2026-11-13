@@ -1,4 +1,4 @@
-# sorav.online
+# hub.sorav.ru
 Сайт, для отображения всех моих сайтов. <!-- описание репозитория -->
 <!--Блок информации о репозитории в бейджах-->
 ![Static Badge](https://img.shields.io/badge/Kievsky332-sorav.online-blue)
@@ -47,7 +47,7 @@
 | **Country_Checker** | Определение страны пользователя через API | CSS, JavaScript, API | [Сайт](https://kievsky332.github.io/Country_Checker/) • [Код](https://github.com/kievsky332/Country_Checker/) |
 | **AI BABUSHKA** | Переводчик текста в стиле "бабушки" (с API) | PHP, CSS, API | [Сайт](https://luram.sorav.ru/Ai-bubusia/) • [Код](https://github.com/kievsky332/AI_BABUSHKA/) |
 | **sorav.ru** | Сайт для отправки эмоций | PHP, JavaScript, Tailwind, CSS, API | [Сайт](https://sorav.ru) • [Код](https://github.com/kievsky332/sorav.ru/) |
-| **sorav.online** | Каталог и отображение всех моих веб-проектов | JavaScript, CSS | [Сайт](https://sorav.online) • [Код](https://github.com/kievsky332/sorav.online/) |
+| **hub.sorav.ru** | Каталог и отображение всех моих веб-проектов | JavaScript, CSS | [Сайт](https://hub.sorav.ru) • [Код](https://github.com/kievsky332/hub.sorav.ru/) |
 | **Eye_site** | Сайт с напоминанием чаще моргать | JavaScript, CSS | [Сайт](https://kievsky332.github.io/Eye_site) • [Код](https://github.com/kievsky332/Eye_site/) |
 | **site-hvpn** | Демонстрационная красивая веб-страница | CSS | [Сайт](https://kievsky332.github.io/site-hvpn/) • [Код](https://github.com/kievsky332/site-hvpn/) |
 | **Money_Site** | Калькулятор заработка в реальном времени | JavaScript, CSS | [Сайт](https://kievsky332.github.io/Money_Site/) • [Код](https://github.com/kievsky332/Money_Site/) |
