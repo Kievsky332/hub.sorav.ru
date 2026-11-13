@@ -57,11 +57,11 @@ const projects = [
         codeUrl: "https://github.com/kievsky332/sorav.ru/"
     },
     {
-        name: "sorav.online",
+        name: "hub.sorav.ru",
         description: "Каталог и отображение всех моих веб-проектов",
         lang: ["Javascript",'Css'],
-        siteUrl: "https://sorav.online",
-        codeUrl: "https://github.com/kievsky332/sorav.online/"
+        siteUrl: "https://hub.sorav.ru",
+        codeUrl: "https://github.com/kievsky332/hub.sorav.ru/"
     },
     {
         name: "Eye_site",
